@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Python Data Visualization.
+- 👯 I’m always ready for collaboration on interesting projects.
+- ⚡ Worked with Python, Photoshop.
+
 <!--
 **olzhakhmet/olzhakhmet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
